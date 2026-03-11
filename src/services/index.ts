@@ -1,0 +1,1 @@
+export { taskAggregator } from './aggregator';
